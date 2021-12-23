@@ -1,0 +1,13 @@
+/* Font Style */
+
+.container-fluid {
+    min-height: 100%;
+}
+
+html, body {
+    height: 100%;
+}
+
+.st-font {
+    font-family: 'Lobster', cursive;
+}
