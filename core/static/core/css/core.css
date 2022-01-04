@@ -11,3 +11,11 @@ html, body {
 .st-font {
     font-family: 'Lobster', cursive;
 }
+.e-color {
+    color: chartreuse;
+    
+}
+.e-font {
+    color: silver;
+    font-size: large;
+}
