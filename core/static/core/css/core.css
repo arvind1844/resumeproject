@@ -19,3 +19,18 @@ html, body {
     color: silver;
     font-size: large;
 }
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.nav-link:hover {
+    color: black;
+    background-color: #e9cd79;
+}
+
+.nav-link.active {
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
