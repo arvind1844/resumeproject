@@ -22,4 +22,5 @@ urlpatterns = [
     path('', views.home, name="home"),
     path('edu/',include("eduexp.urls")),
     path('ski/',include("skills.urls")),
+    path('contact/', views.contact, name="contact"),
 ]
